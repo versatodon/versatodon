@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @versatodon
-- 🌱 I’m currently learning C# and PHP
+- 👋 Hi, Soy @versatodon
+- 🌱 Estoy aprendiendo C#, PHP y angular de momento
+-
 
 
